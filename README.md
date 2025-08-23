@@ -51,9 +51,9 @@ I am open to **on-site or remote opportunities worldwide**, and I am willing to 
 ---
 
 ## 📂 Featured Projects
-- 🔬 [**PV Signal Detection**](https://github.com/yourusername/pv-signal-detection) → Pharmacovigilance analysis with PRR/ROR metrics  
-- 📊 [**RWE Mini Cohort**](https://github.com/yourusername/rwe-mini-cohort) → Cohort pipeline + logistic regression models  
-- 🧾 [**Evidence Brief Template**](https://github.com/yourusername/evidence-brief-template) → Automated scientific briefs for Medical Affairs  
+- 🔬 [**PV Signal Detection**](https://github.com/DrCamilaCuesta/pv-signal-detection) → Pharmacovigilance analysis with PRR/ROR metrics  
+- 📊 [**RWE Mini Cohort**](https://github.com/DrCamilaCuesta/rwe-mini-cohort) → Cohort pipeline + logistic regression models  
+- 🧾 [**Evidence Brief Template**](https://github.com/DrCamilaCuesta/evidence-brief-template) → Automated scientific briefs for Medical Affairs  
 
 ---
 
