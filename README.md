@@ -58,7 +58,7 @@ I am open to **on-site or remote opportunities worldwide**, and I am willing to 
 ---
 
 ## 📬 Contact
-- **Email:** yourname@email.com  
+- **Email:** camilacuesta8@gmail.com 
 - **LinkedIn:** [linkedin.com/in/maria-camila-cuesta-01558a246](https://www.linkedin.com/in/maria-camila-cuesta-01558a246/)  
 - **GitHub:** [github.com/DrCamilaCuesta](https://github.com/DrCamilaCuesta)  
 
