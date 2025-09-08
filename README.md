@@ -1,6 +1,6 @@
-# 🌍 Maria Camila Cuesta — Portfolio
+# Maria Camila Cuesta — Portfolio
 
-👩‍⚕️ **Final-year Medical Student (MD Candidate)** at **Universidad de Los Andes, Colombia** with strong interest in the **global pharmaceutical industry, health tech, and evidence-based medicine**.  
+**Final-year Medical Student (MD Candidate)** at **Universidad de Los Andes, Colombia** with strong interest in the **global pharmaceutical industry, health tech, and evidence-based medicine**.  
 I am seeking a **6-month international internship (December 2025 – June 2026)** in:
 
 - Real World Evidence (RWE) & Health Economics and Outcomes Research (HEOR)  
@@ -13,7 +13,7 @@ I am open to **on-site or remote opportunities worldwide**, and I am willing to 
 
 ---
 
-## 🚀 Key Skills
+## Key Skills
 - **Programming & Data Analysis:** Python (pandas, numpy, scikit-learn), R (tidyverse, metafor), SQL, Advanced Excel  
 - **Clinical & Research:** Evidence-based medicine, meta-regression, systematic reviews, data extraction, decision-support tools  
 - **Communication & Teaching:** English/German/Spanish/Portuguese instruction, team leadership, peer teaching  
@@ -27,19 +27,19 @@ I am open to **on-site or remote opportunities worldwide**, and I am willing to 
 
 ---
 
-## 📂 Featured Experience
-- 🧪 **Medical Sciences Researcher** — Universidad de Los Andes (May 2022 – Present)  
+## Featured Experience
+- **Medical Sciences Researcher** — Universidad de Los Andes (May 2022 – Present)  
   Supporting neurological research in autism, focusing on moral emotions. Contributed to systematic reviews, data extraction, and meta-regression.
 
-- 📘 **English Language Instructor** — Berlitz Corporation (Jun 2022 – Present)  
+- **English Language Instructor** — Berlitz Corporation (Jun 2022 – Present)  
   Teaching English at professional level, supporting learners with business and technical communication.
 
-- 🌍 **English, German & Spanish Instructor** — italki (Sep 2021 – Present)  
+- **English, German & Spanish Instructor** — italki (Sep 2021 – Present)  
   Teaching multiple languages to international learners, strengthening cross-cultural communication and leadership skills.
 
 ---
 
-## 🎓 Education
+## Education
 **Universidad de Los Andes (2019 – 2026)**  
 - Doctor of Medicine (MD Candidate)  
 - Activities: Innovation in Healthcare Club, Hackathons, Academic Tutoring  
@@ -50,14 +50,14 @@ I am open to **on-site or remote opportunities worldwide**, and I am willing to 
 
 ---
 
-## 📂 Featured Projects
-- 🔬 [**PV Signal Detection**](https://github.com/DrCamilaCuesta/pv-signal-detection) → Pharmacovigilance analysis with PRR/ROR metrics  
-- 📊 [**RWE Mini Cohort**](https://github.com/DrCamilaCuesta/rwe-mini-cohort) → Cohort pipeline + logistic regression models  
-- 🧾 [**Evidence Brief Template**](https://github.com/DrCamilaCuesta/evidence-brief-template) → Automated scientific briefs for Medical Affairs  
+## Featured Projects
+- [**PV Signal Detection**](https://github.com/DrCamilaCuesta/pv-signal-detection) → Pharmacovigilance analysis with PRR/ROR metrics  
+- [**RWE Mini Cohort**](https://github.com/DrCamilaCuesta/rwe-mini-cohort) → Cohort pipeline + logistic regression models  
+- [**Evidence Brief Template**](https://github.com/DrCamilaCuesta/evidence-brief-template) → Automated scientific briefs for Medical Affairs  
 
 ---
 
-## 📬 Contact
+## Contact
 - **Email:** camilacuesta8@gmail.com 
 - **LinkedIn:** [linkedin.com/in/maria-camila-cuesta-01558a246](https://www.linkedin.com/in/maria-camila-cuesta-01558a246/)  
 - **GitHub:** [github.com/DrCamilaCuesta](https://github.com/DrCamilaCuesta)  
